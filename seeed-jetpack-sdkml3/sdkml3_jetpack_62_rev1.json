@@ -1656,9 +1656,9 @@
                     ],
                     "downloadFiles": [
                         {
-                            "url": "https://github.com/Seeed-Projects/SeeedSDKM/releases/download/R36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
+                            "url": "http://files.seeedstudio.com/wiki/reComputer-BSP/Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "fileName": "Jetson_Linux_r36.4.3_aarch64.tbz2",
-                            "size": 715765074,
+                            "size": 727616486,
                             "checksum": "7b0ad19014825b692c92b6a5c9aeec86",
                             "checksumType": "md5",
                             "verifyChecksum": "yes",
@@ -1722,7 +1722,7 @@
                     ],
                     "downloadFiles": [
                         {
-                            "url": "https://github.com/Seeed-Projects/SeeedSDKM/releases/download/R36.4.3/Jetson_Linux_r36.4.3_aarch64.tbz2",
+                            "url": "http://files.seeedstudio.com/wiki/reComputer-BSP/Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "fileName": "Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "size": 715765074,
                             "checksum": "7b0ad19014825b692c92b6a5c9aeec86",
