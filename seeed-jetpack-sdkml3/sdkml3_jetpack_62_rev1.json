@@ -17,7 +17,9 @@
                     "RECOMPUTER_MINI_TARGETS",
                     "RECOMPUTER_SUPER_TARGETS",
                     "RECOMPUTER_INDUSTRIAL_TARGETS",
-                    "RECOMPUTER_ROBOTICS_TARGETS"
+                    "RECOMPUTER_ROBOTICS_TARGETS",
+                    "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                    "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                 ]
             },
             "minSDKMVer": "2.2.0",
@@ -637,7 +639,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 9381.53,
@@ -700,7 +704,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 9381.53,
@@ -781,7 +787,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 3454.38,
@@ -846,7 +854,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 3454.38,
@@ -912,7 +922,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 2.23,
@@ -1100,7 +1112,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 458.7,
@@ -1265,7 +1279,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 458.7,
@@ -1330,7 +1346,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 1098.57,
@@ -1396,7 +1414,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 608.62,
@@ -1471,7 +1491,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 224.37,
@@ -1508,7 +1530,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -1589,7 +1613,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -1658,7 +1684,7 @@
                         {
                             "url": "http://files.seeedstudio.com/wiki/reComputer-BSP/Jetson_Linux_r36.4.3_aarch64.tbz2",
                             "fileName": "Jetson_Linux_r36.4.3_aarch64.tbz2",
-                            "size": 727616486,
+                            "size": 715765074,
                             "checksum": "7b0ad19014825b692c92b6a5c9aeec86",
                             "checksumType": "md5",
                             "verifyChecksum": "yes",
@@ -1700,7 +1726,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 786.15
@@ -1766,7 +1794,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 786.15
@@ -1849,6 +1879,14 @@
                                             "    sudo cp kernel/dtb/tegra234-seeed-orbbec-335lg-overlay.dtbo rootfs/boot/",
                                             "    echo 'Use reComputer Robotics J401 (GMSL) config.'",
                                             "    ln -sf recomputer-orin-robotics-j401-gmsl.conf jetson-orin-nano-devkit.conf ;;",
+                                            "  RESERVER_INDUSTRIAL_ORIN_TARGETS)",
+                                            "    echo 'Use reServer industrial J401 config.'",
+                                            "    ln -sf reserver-industrial-orin-j401.conf jetson-orin-nano-devkit.conf ;;",
+                                            "  RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS)",
+                                            "    echo 'Copy dual channel GMSL dtbo to rootfs.'",
+                                            "    sudo cp kernel/dtb/tegra234-seeed-gmsl2x4-3g-overlay.dtbo rootfs/boot/",
+                                            "    echo 'Use reServer industrial J501 (GMSL) config.'",
+                                            "    ln -sf reserver-agx-orin-j501x-gmsl.conf jetson-agx-orin-devkit.conf ;;",
                                             "  *)",
                                             "    echo 'Unknown BOARD_ID: $BOARD_ID'",
                                             "    exit 1;;",
@@ -1873,7 +1911,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 6142.01
@@ -1972,7 +2012,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 6142.01
@@ -2046,7 +2088,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     }
                 },
@@ -2108,7 +2152,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     }
                 }
@@ -2167,7 +2213,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 0,
@@ -2252,7 +2300,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 4.42
@@ -2339,7 +2389,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 7.83
@@ -2378,7 +2430,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -2499,7 +2553,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -2581,7 +2637,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -2707,7 +2765,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 67.14
@@ -2806,7 +2866,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 1.39
@@ -2918,7 +2980,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "dependencies": [
@@ -3166,7 +3230,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 25.75
@@ -3253,7 +3319,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 92.37
@@ -3292,7 +3360,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3383,7 +3453,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3468,7 +3540,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3678,7 +3752,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 37.75
@@ -3714,7 +3790,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3844,7 +3922,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -3924,7 +4004,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ],
                         "excludedDeviceIds": []
                     },
@@ -4184,7 +4266,9 @@
                             "RECOMPUTER_MINI_TARGETS",
                             "RECOMPUTER_SUPER_TARGETS",
                             "RECOMPUTER_INDUSTRIAL_TARGETS",
-                            "RECOMPUTER_ROBOTICS_TARGETS"
+                            "RECOMPUTER_ROBOTICS_TARGETS",
+                            "RESERVER_INDUSTRIAL_ORIN_TARGETS",
+                            "RESERVER_INDUSTRIAL_AGX_ORIN_TARGETS"
                         ]
                     },
                     "installSizeMB": 0.95

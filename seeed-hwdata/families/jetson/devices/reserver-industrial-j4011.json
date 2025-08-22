@@ -6,31 +6,31 @@
         "schemaVersion": "1"
     },
     "hw": {
-        "RECOMPUTER_CLASSIC_J3010": {
-            "name": "reComputer Classic J3010",
+        "RESERVER_INDUSTRIAL_J4011": {
+            "name": "reServer Industrial J4011",
             "products": [
                 "Jetson"
             ],
             "deviceIdentificationDetails": {
                 "moduleNames": [
-                    "P3767-0004 [4GB]"
+                    "P3767-0001 [8GB]"
                 ],
                 "moduleIds": [
-                    "3767-0004"
+                    "3767-0001"
                 ],
-                "moduleDescription": "Jetson Orin Nano 4GB Module",
+                "moduleDescription": "Jetson Orin NX 8GB Module",
                 "tegraRecoveryModeCodes": [
-                    "0955:7623"
+                    "0955:7423"
                 ],
                 "carrierIds": [
-                    "j401c-0000"
+                    "j401i-0000"
                 ],
-                "carrierDescription": "reComputer J401 carrier board",
+                "carrierDescription": "reServer Industrial J401 carrier board",
                 "bootRomPreflashVerification": true
             },
-            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/recomputer-classic-j30-40.png",
+            "imagePath": "http://seeed-projects.github.io/SeeedSDKM/seeed-hwdata/productImage/reserver-industrial-j30-40.jpg",
             "storages": [],
-            "id": "RECOMPUTER_CLASSIC_J3010"
+            "id": "RESERVER_INDUSTRIAL_J4011"
         }
     }
 }
